@@ -11,7 +11,7 @@ with open("README.md", encoding="utf-8") as f:
 
 setup(
     name="morse-code-translator2",
-    version="0.0.3",
+    version="1.0.0",
     description="Morse Code Translator",
     long_description=README,
     long_description_content_type="text/markdown",
